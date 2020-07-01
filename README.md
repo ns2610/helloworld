@@ -1,2 +1,3 @@
 # helloworld
-just another repository
+Hi there! I am Nishu Sharma.
+I like SQL.
